@@ -1,12 +1,10 @@
 {
-  "name": "eslint-config-esolidar",
+  "name": "@esolidar/eslint-config-esolidar",
   "version": "0.0.1",
   "description": "Shared ESLint configs for eSolidar projects",
   "main": "index.js",
   "repository": {
-    "type": "git",
-    "url": "https://github.com/esolidar/eslint-config-esolidar",
-    "directory": "packages/eslint-config-esolidar"
+    "url": "git://github.com/esolidar/eslint-config-esolidar.git"
   },
   "author": "eSolidar",
   "license": "MIT",
