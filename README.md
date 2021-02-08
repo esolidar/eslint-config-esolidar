@@ -23,7 +23,7 @@ module.exports = {
 
 That's all. It will work.
 
-Sometimes [the rules we shared](https://github.com/esolidar/eslint-config-esolidar/index.js) may be not enough. Just add more or overwrite them with your own rules by modifying ".eslintrc.js". For example:
+Sometimes [the rules we shared](https://github.com/esolidar/eslint-config-esolidar/blob/main/index.js) may be not enough. Just add more or overwrite them with your own rules by modifying ".eslintrc.js". For example:
 
 _.eslintrc.js_
 
