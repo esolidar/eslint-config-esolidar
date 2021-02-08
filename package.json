@@ -1,10 +1,10 @@
 {
   "name": "@esolidar/eslint-config-esolidar",
-  "version": "0.0.4",
+  "version": "0.0.2",
   "description": "Shared ESLint configs for eSolidar projects",
   "main": "index.js",
   "scripts": {
-    "publish": "npm publish"
+    "build:publish": "npm publish"
   },
   "repository": {
     "url": "git://github.com/esolidar/eslint-config-esolidar.git"
