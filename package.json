@@ -3,10 +3,14 @@
   "version": "0.0.1",
   "description": "Shared ESLint configs for eSolidar projects",
   "main": "index.js",
+  "scripts": {
+    "build": "nwb build-react-component --copy-files && rimraf lib/**/**/__tests__ && rimraf lib/**/**/*.md",
+    "build:publish": "npm run build && npm publish"
+  },
   "repository": {
     "url": "git://github.com/esolidar/eslint-config-esolidar.git"
   },
-  "author": "eSolidar",
+  "author": "Pedro Guia",
   "license": "MIT",
   "homepage": "https://github.com/esolidar/eslint-config-esolidar",
   "dependencies": {},
