@@ -1,6 +1,6 @@
 {
   "name": "@esolidar/eslint-config-esolidar",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Shared ESLint configs for eSolidar projects",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
   "homepage": "https://github.com/esolidar/eslint-config-esolidar",
   "dependencies": {},
   "peerDependencies": {
-    "babel-eslint": ">= 10.1.0",
+    "@babel/eslint-parser": "^7.12.13",
     "eslint": ">= 7.19.0",
     "eslint-config-airbnb": "^18.2.1",
     "eslint-config-prettier": "^7.2.0",
@@ -25,7 +25,7 @@
     "prettier": ">= 2.2.1"
   },
   "devDependencies": {
-    "babel-eslint": "^10.1.0",
+    "@babel/eslint-parser": "^7.12.13",
     "eslint": "^7.19.0",
     "eslint-config-airbnb": "^18.2.1",
     "eslint-config-prettier": "^7.2.0",
