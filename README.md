@@ -37,7 +37,7 @@ module.exports = {
 };
 ```
 
-## References:
+## References
 
 - [ESLint Shareable Configs](http://eslint.org/docs/developer-guide/shareable-configs)
 
