@@ -62,6 +62,8 @@ module.exports = {
     "react/state-in-constructor": 0,
     "react/jsx-props-no-spreading": 0,
     "react/static-property-placement": 0,
+    "react/jsx-uses-react": "off",
+    "react/react-in-jsx-scope": "off",
   },
   settings: {
     "import/resolver": {

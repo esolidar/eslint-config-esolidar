@@ -2,7 +2,7 @@
 
 ESLint shareable config for eSolidar projects
 
-# Usage
+## Usage
 
 In order to use this shareable config you have to install the package "eslint-config-esolidar" into your project:
 
@@ -37,10 +37,10 @@ module.exports = {
 };
 ```
 
-# References:
+## References:
 
 - [ESLint Shareable Configs](http://eslint.org/docs/developer-guide/shareable-configs)
 
-# License
+## License
 
 The MIT License (MIT)
