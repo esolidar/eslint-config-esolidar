@@ -1,6 +1,6 @@
 {
   "name": "@esolidar/eslint-config-esolidar",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Shared ESLint configs for eSolidar projects",
   "main": "index.js",
   "scripts": {
